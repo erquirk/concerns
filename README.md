@@ -1,5 +1,5 @@
 # concerns
-This project is part of the larger project on language attitudes, resources, and practices as well as concerns of parents raising multilingual children in Quebec. The same code is found in the langatt repository.
+This project is part of a larger project investigating language attitudes, resources, and practices as well as concerns of parents raising multilingual children in Quebec, described in detail at: https://osf.io/ydqvb/
 
 In the data/input_files, there are two anonymized source files, which two processes have already been applied to: emails have already been removed and dobs have been cleaned. The scripts should be run in this order: 
 
