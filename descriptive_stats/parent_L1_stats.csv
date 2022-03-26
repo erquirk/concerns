@@ -1,0 +1,15 @@
+Level,Group_by,Count,Prop
+0,parent1_ol_only,531,64.68
+1,parent1_ol_only,290,35.32
+1,parent1_L1_en_only,165,20.1
+0,parent1_L1_en_only,656,79.9
+0,parent1_L1_fr_only,618,75.27
+1,parent1_L1_fr_only,203,24.73
+0,parent1_L1_en_ol,776,94.52
+1,parent1_L1_en_ol,45,5.48
+0,parent1_L1_fr_ol,775,94.4
+1,parent1_L1_fr_ol,46,5.6
+0,parent1_L1_en_fr_ol,800,97.44
+1,parent1_L1_en_fr_ol,21,2.56
+0,parent1_L1_eng_fr_only,770,93.79
+1,parent1_L1_eng_fr_only,51,6.21

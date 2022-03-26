@@ -1,0 +1,13 @@
+new_var_name,new_var_description
+clean_dobs,Clean child date of birth in month-year format
+clean_address,address made lowercase special characters removed
+in_MTL,binary variable for address in MTL neighborhoods or arrondissements
+great_MTL,binary variable for address in Greater Montreal
+in_QC,binary variable for address outside of MTL but in QC
+out_QC,binary variable for address outside of QC
+has_OL,being raised with a language other than French or English
+has_eng,has exposure to English
+has_fr,has exposure to French
+mono_OL,being rasied monolingually in a language other than French or English
+mono_fr,being raised with French only
+mono_en,being raised with English only

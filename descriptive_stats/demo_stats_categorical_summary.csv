@@ -1,0 +1,75 @@
+Level,Group_by,Count,Prop
+Elsewhere,in_MTL,394,47.99
+Inside of Montreal,in_MTL,427,52.01
+Inside Greater Montreal,great_MTL,167,20.34
+Elsewhere,great_MTL,654,79.66
+Elsewhere,in_QC,594,72.35
+In Quebec outside of Greater Montreal,in_QC,227,27.65
+Female,gender,761,92.69
+Male,gender,53,6.46
+NA,gender,2,0.24
+Other,gender,5,0.61
+Female,child_sex,404,49.21
+Male,child_sex,416,50.67
+Other,child_sex,1,0.12
+Monolingual,multilingual_parent,634,77.22
+Multilingual,multilingual_parent,187,22.78
+English;French,child_languages,278,33.86
+English;Other,child_languages,50,6.09
+English;French;Other,child_languages,298,36.3
+English,child_languages,12,1.46
+Other,child_languages,60,7.31
+French;Other,child_languages,108,13.15
+French,child_languages,15,1.83
+0,has_OL,319,38.86
+1,has_OL,502,61.14
+Cegep or DEP (or equivalent),education,60,7.31
+Bachelor’s degree (or equivalent),education,190,23.14
+Doctoral degree (PhD or MD),education,47,5.72
+Master’s degree (or equivalent),education,151,18.39
+High school (or equivalent),education,18,2.19
+Trade,education,1,0.12
+I don’t have any qualifications,education,2,0.24
+NA,education,1,0.12
+J.D.,education,1,0.12
+Doctor of PT,education,1,0.12
+AEC on collage,education,1,0.12
+"DVM, specialisation degree",education,1,0.12
+Ontario College diploma,education,1,0.12
+College diploma,education,1,0.12
+Doctorat (PhD ou MD),education,24,2.92
+Maîtrise (ou équivalent),education,104,12.67
+Baccalauréat (ou équivalent),education,133,16.2
+CÉGEP ou DEP (ou équivalent),education,64,7.8
+Secondaire (ou équivalent),education,11,1.34
+Certificat universitaire,education,2,0.24
+Je n’ai aucune qualification,education,3,0.37
+DESS (post grad),education,1,0.12
+Barreau du Qc,education,1,0.12
+Technique cégep,education,1,0.12
+Certificats (Université),education,1,0.12
+0,opol,725,88.31
+1,opol,96,11.69
+0,has_DL,804,97.93
+1,has_DL,17,2.07
+With a partner who lives in the same household,family_config,450,54.81
+Alone,family_config,9,1.1
+"Alone for the time being, as my partner is in another country",family_config,1,0.12
+With my ex who lives in a different household,family_config,1,0.12
+With partner and in-laws in same household,family_config,1,0.12
+with partner and parents who live in the same household,family_config,1,0.12
+Partner in my house and his dad every second weekend,family_config,1,0.12
+With a partner who lives in a different household,family_config,5,0.61
+With my parent(s) who live(s) in the same household,family_config,3,0.37
+With my spouse (the father of our son),family_config,1,0.12
+With my partner who works at a mine and is away 14/14 days,family_config,1,0.12
+With a partner who lives in the same household and my parents who live in a different household,family_config,1,0.12
+With my partner and a parent in the same house,family_config,1,0.12
+"Seule la majorité du temps, mais visites périodiques du père qui habite dans un autre foyer & autre province",family_config,1,0.12
+Avec un(e) partenaire qui vit dans le même foyer,family_config,316,38.49
+Avec un(e) partenaire qui vit dans un autre foyer,family_config,8,0.97
+Avec mon/mes parent(s) qui vit/vivent dans le même foyer,family_config,5,0.61
+Seul(e),family_config,12,1.46
+Avec mon mari qui est le père de l'enfant,family_config,1,0.12
+NA,family_config,1,0.12
+En maison bigenerationelle(mes parents)et avec mon conjoint,family_config,1,0.12
